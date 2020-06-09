@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\DockerTest\\YOYO\\YOYO.csproj",
+      "projectUniqueName": "E:\\Code\\DockerTest\\YOYO.Demo\\DockerDemo\\YOYO.csproj",
       "projectName": "YOYO",
-      "projectPath": "E:\\Code\\DockerTest\\YOYO\\YOYO.csproj",
+      "projectPath": "E:\\Code\\DockerTest\\YOYO.Demo\\DockerDemo\\YOYO.csproj",
       "packagesPath": "C:\\Users\\SeaLee\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\DockerTest\\YOYO\\obj\\",
+      "outputPath": "E:\\Code\\DockerTest\\YOYO.Demo\\DockerDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

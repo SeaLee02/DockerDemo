@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A4l5rUqH/XZOYfdNN8N8y9ivJAR/KQlwqQy/ghDxLLuHaQQBEXzHVXysDx5wxuYgmAglaWWJHFX65zMjcB59Bg==",
+  "dgSpecHash": "wL8Yp8XeDzC/Wu1dXjb6nCW6idE0S1IJOFMQVBEbaI9fo7ELEbN+FOnUJjLJAVGufoVW4wJt1rmvjzbKO0MBzA==",
   "success": true,
-  "projectFilePath": "E:\\Code\\DockerTest\\YOYO\\YOYO.csproj",
+  "projectFilePath": "E:\\Code\\DockerTest\\YOYO.Demo\\DockerDemo\\YOYO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SeaLee\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
